@@ -40,7 +40,7 @@ CREATE TABLE `personaldetails` (
 --
 
 INSERT INTO `personaldetails` (`fname`, `lname`, `age`, `department`, `address`) VALUES
-('Ankur', 'Das', 23, 'CS', '160B Dr. G. S. Bose Road'),
+('Arunava', 'Dutta', 22, 'CS', 'HB Sector 3 Saltlake'),
 ('Arunima', 'Das', 23, 'CS', '120 Dumdum Road'),
 ('Bidyut', 'Das', 23, 'CS', '112 Kakdip Road'),
 ('Bishal', 'Saha', 23, 'CS', '135 Kakdip Road'),
